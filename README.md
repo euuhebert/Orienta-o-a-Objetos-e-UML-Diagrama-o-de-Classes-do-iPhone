@@ -1,4 +1,4 @@
-Eu posso te ajudar a substituir a imagem vazia por essa que você enviou. Aqui está o código markdown atualizado:
+
 
 # Orientação a Objetos e UML: Diagramação de Classes do iPhone
 
